@@ -1,0 +1,8 @@
+img#bg1 {
+    width: 100%;
+}
+img#bg2 {
+    width: 100%;
+    transform: rotate(90deg);
+    transform: scaleX(-1);
+}
